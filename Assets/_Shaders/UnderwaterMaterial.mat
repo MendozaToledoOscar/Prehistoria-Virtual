@@ -24,9 +24,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _NoiseFrequency: 8
-    - _NoiseScale: 1
-    - _NoiseSpeed: 10
+    - _NoiseFrequency: 3
+    - _NoiseScale: 0.5
+    - _NoiseSpeed: 8
     - _PixelOffset: 0.005
     m_Colors: []
   m_BuildTextureStacks: []
